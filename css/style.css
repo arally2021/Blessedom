@@ -7,9 +7,6 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
   }
-.width{
-    width: 500px;
-}
   .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -227,4 +224,5 @@ body {
       display: flex;
       flex-direction: column;
     }
+
   }
